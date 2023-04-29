@@ -25,7 +25,8 @@
 
 ### 🤵 About Me:
 - ⚡ Software Engineer | Backend | Spring Boot
-- 😄 Pronouns: He/Him
+- ⚡ Passionate about software developement.
+- ⚡ I like to learn new technologies and improve my skills.
 
 ---
 
