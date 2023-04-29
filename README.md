@@ -24,7 +24,7 @@
 </p>
 
 ### 🤵 About Me:
-- ⚡ Software Engineer | Backend | Spring Boot
+- ⚡ Software Engineer | Java | Backend | Spring Boot
 - ⚡ Passionate about software developement.
 - ⚡ I like to learn new technologies and improve my skills.
 
